@@ -55,5 +55,5 @@ rm -rf $RPM_BUILD_ROOT
 %files
 %defattr(644,root,root,755)
 %doc README AUTHORS TODO ChangeLog
-%attr(755,root,root) %{_libdir}/giFT/*.so
+%attr(755,root,root) %{_libdir}/giFT/*
 %{_datadir}/giFT/*
