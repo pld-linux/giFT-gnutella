@@ -4,12 +4,12 @@
 Summary:	The generic interface to FastTrack: gnutella plugin
 Summary(pl):	Interfejs do FastTracka: wtyczka gnutelli
 Name:		giFT-gnutella
-Version:	0.0.5
+Version:	0.0.7
 Release:	1
 License:	GPL
 Group:		Applications/Communications
 Source0:	http://dl.sourceforge.net/gift/%{sname}-%{version}.tar.bz2
-# Source0-md5:	6f597001389020eb6130eddafb8d9a70
+# Source0-md5:	355e67f05f3c30ad7a9eb04e19497a02
 URL:		http://giFT.sourceforge.net/
 BuildRequires:	autoconf
 BuildRequires:	automake
