@@ -2,7 +2,7 @@
 %define		sname	gift-gnutella
 
 Summary:	The generic interface to FastTrack: gnutella plugin
-Summary(pl):	Interfejs do FastTracka: plugin gnutelli
+Summary(pl):	Interfejs do FastTracka: wtyczka gnutelli
 Name:		giFT-gnutella
 Version:	0.0.5
 Release:	1
@@ -24,8 +24,8 @@ The generic interface to FastTrack network. This package contains
 gnutella plugin.
 
 %description -l pl
-Ogólny interfejs do sieci FastTrack. Ten pakiet zawiera plugin sieci
-gnutella.
+Ogólny interfejs do sieci FastTrack. Ten pakiet zawiera wtyczkê dla
+sieci gnutella.
 
 %prep
 %setup -q -n %{sname}-%{version}
